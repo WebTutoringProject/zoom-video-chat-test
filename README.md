@@ -1,5 +1,10 @@
 ## Setup
+
 1. Install the the git repo:
+
+   `$ git clone [https://github.com/zoom/meetingsdk-auth-endpoint-sample.git](https://github.com/WebTutoringProject/zoom-video-chat-test.git)`
+
+1. Install the the Zoom enpoint git repo:
 
    `$ git clone https://github.com/zoom/meetingsdk-auth-endpoint-sample.git`
 
